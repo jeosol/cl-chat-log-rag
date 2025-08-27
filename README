@@ -1,0 +1,3 @@
+This project is aimed at developign a chatbox that is able to retrieve relevant logs from the Common Lisp Libera Chat Logs give a user query. Previous work involved processing the multi-year log data and storing huggingface dataset and as parquet files.
+
+Please note that this notebook contains part of the early exploration work to test different options and settings. Additional resources will be added to the repo and to encourage collaboration with outers that may be interested in the projects.
