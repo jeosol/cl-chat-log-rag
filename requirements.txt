@@ -1,0 +1,4 @@
+datasets
+duckdb
+sentence-transformers
+model2vec
